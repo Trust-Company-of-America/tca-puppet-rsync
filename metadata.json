@@ -1,11 +1,11 @@
 {
-  "name": "tca_puppet_rsync",
-  "version": "1.2.4",
+  "name": "tca_puppet-rsync",
+  "version": "1.2.5",
   "author": "puppetlabs",
   "summary": "Manages rsync clients, repositories, and servers, & providies defines to easily grab data via rsync.",
   "license": "Apache-2.0",
-  "source": "https://github.com/Trust-Company-of-America/tca_puppet_rsync",
-  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_rsync",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet-rsync",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet-rsync",
   "issues_url": "https://tickets.puppetlabs.com/browse/MODULES",
   "dependencies": [
     {
